@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Behold .. the Lord thine God breathes thee and moves thee in every single second. He lives in thee and animates thine every movement with His Force. He travels with thee into all thine excursions of experience in gaining the understanding wisdoms of your lifetimes within the womb of the earthly orb. He desires to expand His Glory and Perfection .. to quietly establish Harmony and a Lasting Order in Our Universal Body... '
-datePublished: '2016-05-05T02:59:21.400Z'
-dateModified: '2016-05-05T02:59:20.909Z'
+datePublished: '2016-05-05T13:50:45.280Z'
+dateModified: '2016-05-05T13:49:04.997Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-05-behold--the-lord-thine-god-breathes-thee-and-moves-thee-in.md
