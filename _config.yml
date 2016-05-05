@@ -1,0 +1,28 @@
+name: 'Michael Of Nebadon '
+favicon: null
+layout_spectrum: 0.9353231007698923
+typography_spectrum: 0.9830288647208363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.053239708533510566
+  lightness: 0.15006590052507818
+  saturation: 0.5050732996314764
+  rhythmicContrast: 0.3797866941895336
+purpose: []
